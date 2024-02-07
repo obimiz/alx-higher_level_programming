@@ -1,0 +1,1 @@
+"Python - Data Structures: Lists, Tuples" gives a succinct description of the repository's features and objectives. It presents lists and tuples as the two basic data structures in Python and describes their main features. 
